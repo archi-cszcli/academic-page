@@ -108,9 +108,7 @@ tags: []
 <!-- # Display this page in the Featured widget?
 featured: true -->
 
----
 
----
 title: 'Securing deployed smart contracts and DeFi with distributed TEE cluster'
 
 authors:
