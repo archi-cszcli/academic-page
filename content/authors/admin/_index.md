@@ -1,6 +1,6 @@
 ---
 # Display name
-title: LI Zecheng 李泽成
+title: LI Zecheng
 
 # Full name (for SEO)
 first_name: Zecheng
