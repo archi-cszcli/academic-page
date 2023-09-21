@@ -65,6 +65,72 @@ projects: []
 slides: example
 ---
 
+---
+title: 'Enabling Privacy-Preserving and Efficient Authenticated Graph Queries on Blockchain-Assisted Clouds'
+
+authors:
+  - Wu Haotian
+  - admin
+  - Song Rui
+  - Xiao Bin
+
+date: '2013-07-01T00:00:00Z'
+doi: '10.1109/TKDE.2023.3249279'
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2017-01-01T00:00:00Z'
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['2']
+
+# Publication name and optional abbreviated publication name.
+publication: In *IEEE Transactions on Knowledge and Data Engineering*
+publication_short: In *TKDE*
+
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+tags: []
+
+<!-- # Display this page in the Featured widget?
+featured: true -->
+
+
+title: 'Securing deployed smart contracts and DeFi with distributed TEE cluster'
+
+authors:
+  - admin
+  - Xiao Bin
+  - Guo Songtao
+  - Yang
+
+date: '2013-07-01T00:00:00Z'
+doi: '10.1109/TPDS.2022.3232548'
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2017-01-01T00:00:00Z'
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['2']
+
+# Publication name and optional abbreviated publication name.
+publication: In *IEEE Transactions on Parallel and Distributed Systems*
+publication_short: In *TPDS*
+
+tags: []
+
+<!-- # Display this page in the Featured widget?
+featured: true -->
+
+
+
+---
+
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
