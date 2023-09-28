@@ -19,7 +19,7 @@ role: Research Assistant Professor
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: The Hong Kong Polytechnic University
-    # url: https://www.stanford.edu/
+    url: https://www.https://www.polyu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include smart contract security and blockchain security.
@@ -28,19 +28,20 @@ bio: My research interests include smart contract security and blockchain securi
 interests:
   - Smart Contract
   - Blockchain
+  - Threat Detection
   # - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Department of Computing
-      institution: The Hong Kong Polytechnic University
+    - course: PhD in The Hong Kong Polytechnic University
+      institution: Department of Computing
       year: 2022
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2009
-    - course: BSc in School of Information Science and Engineering
-      institution: Southeast University
+    - course: BSc in Southeast University
+      institution: School of Information Science and Engineering
       year: 2017
 
 # Social/Academic Networking
